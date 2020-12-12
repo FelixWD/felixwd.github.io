@@ -1,0 +1,13 @@
+body { 
+    background-color: navajowhite;
+    font-family: "Arial"; 
+}
+
+li { 
+    color: #2a2a7e;
+    font-size: 14px; font-weight: bold;
+}
+
+div + p {
+    color: blue;
+}
